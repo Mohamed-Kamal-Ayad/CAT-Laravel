@@ -1,4 +1,6 @@
+<p align="center">
 ![logo](/CAT-Laravel.png)
+</p>
 
 # Back-End Workshop
 
