@@ -1,6 +1,7 @@
 <p align="center">
-![logo](/CAT-Laravel.png)
+    <img src="/CAT-Laravel.png" alt="logo">
 </p>
+
 
 # Back-End Workshop
 
