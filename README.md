@@ -23,6 +23,7 @@ I want you to To-Do list app with these features:
 - Every task will have title and description
 - Page with form to store tasks in the database
 - View all tasks below the form
+- Button to delete specific task
 
 **Note: Design is not important, you can use html only, the only important thing is that the application works!**
 
