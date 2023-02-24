@@ -1,8 +1,8 @@
-# Back-End Workshop
-
 ![logo](/CAT-Laravel.png)
 
-Let's dive into back-end with PHP and Laravel!
+# Back-End Workshop
+
+**Let's dive into back-end with PHP and Laravel!**
 
 ## Intro
 
