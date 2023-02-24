@@ -1,4 +1,4 @@
-![logo](/CAT-Laravel.png)
+![logo](/CAT-Laravel (1).png)
 
 # Back-End Workshop
 
