@@ -16,8 +16,9 @@ In order to fully benefit from this workshop, you must have knowledge of some im
 ## Resources For The Topics You Need
 
  - [HTML Tutorial for Beginners: HTML Crash Course](https://www.youtube.com/watch?v=qz0aGYrrlhU&ab_channel=ProgrammingwithMosh)
- - [PHP For Beginners | 3+ Hour Crash Course](https://www.youtube.com/watch?v=BUCiSSyIGGU&ab_channel=TraversyMedia)
  - [MySQL Crash Course | Learn SQL](https://www.youtube.com/watch?v=9ylj9NR0Lcg&ab_channel=TraversyMedia)
+ - [PHP For Beginners | 3+ Hour Crash Course](https://www.youtube.com/watch?v=BUCiSSyIGGU&ab_channel=TraversyMedia)
+
 
 
 
