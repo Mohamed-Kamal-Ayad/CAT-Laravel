@@ -27,6 +27,6 @@ I want you to To-Do list app with these features:
 **Note: Design is not important, you can use html only, the only important thing is that the application works!**
 
 Example:
-[example](./exmaple.jpg)
+[example](/example.jpg)
 
 
