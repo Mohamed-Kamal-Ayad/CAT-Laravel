@@ -1,4 +1,3 @@
-# CAT-Laravel
 # Back-End Workshop
 
 Let's dive into back-end with PHP and Laravel!
