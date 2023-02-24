@@ -24,7 +24,7 @@ In order to fully benefit from this workshop, you must have knowledge of some im
 ## Task
 It's so simple!
 
-I want you to To-Do list app with these features:
+I want you to make To-Do list app with these features:
 - Every task will have title and description
 - Page with form to store tasks in the database
 - View all tasks below the form
