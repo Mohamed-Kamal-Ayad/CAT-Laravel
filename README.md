@@ -9,7 +9,7 @@
 
 ## Intro
 
-In order to fully benefit from this workshop, you must have knowledge of some important topics, and there will be an simple Task to make sure that you are aware of these topics.
+In order to fully benefit from this workshop, you must have knowledge of some important topics, and there will be a simple Task to make sure that you are aware of these topics.
 
 **But do not worry, you still have time to study these topics before you do the task!**
 
